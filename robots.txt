@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ukashwallet.github.io/crypto-exchange/sitemap.xml
+Sitemap: https://crypto-exchange.ukash-wallet.workers.dev/sitemap.xml
